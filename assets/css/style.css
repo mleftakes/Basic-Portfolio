@@ -3,7 +3,7 @@
 }
 
 body {
-    background: url('assets/images/concrete-texture/concrete-texture.png') repeat;
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZnMDbk7Hx_3q_es6lb9ZioUcYuwvPZ8iknN89FYKSFh9IVNhW6A') repeat;
     font-family: 'Georgia', Times, Times New Roman, serif;
     overflow: auto;
     color: #777777;
@@ -112,7 +112,6 @@ footer {
     position: relative;
     width: 250px;
     float: left;
-    padding: 10px;
 }
 
 .image-wrapper p {
